@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "241115542047",
+    "project_id": "hiringtest-c812b",
+    "storage_bucket": "hiringtest-c812b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241115542047:android:071fe35b4deb1b4e57db2a",
+        "android_client_info": {
+          "package_name": "com.example.hring_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241115542047-ffp2r5urtggcmgp2t9haken7opgttcn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCWHocQUhisORguZsycNCUHt8twZ1FmWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241115542047-ffp2r5urtggcmgp2t9haken7opgttcn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
